@@ -1,37 +1,55 @@
-## Welcome to GitHub Pages
+## CS50 2019 Solutions
 
-You can use the [editor on GitHub](https://github.com/BrianSun-UBC/BrianSun-UBC/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I worked out these solutions as part of the completion for the Harvard CS50x course I completed during winter 2019. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Table Of Contents
 
-### Markdown
+Problem Set 1: C
+hello
+cash
+credit
+mario
+less
+more
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Problem Set 2: Crypto
+caesar
+vigenere
+crack
 
-```markdown
-Syntax highlighted code block
+Problem Set3: Music
+music
 
-# Header 1
-## Header 2
-### Header 3
+Problem Set 4: Forensics
+whodunit
+resize
+less
+more
+recover
 
-- Bulleted
-- List
+Problem Set 5: Mispellings
+speller
+hashtable
+trie
+bloom filter
 
-1. Numbered
-2. List
+Problem Set 6: Déjà vu
+sentimental
+hello
+cash
+credit
+mario
+less
+more
+caesar
+vigenere
+crack
 
-**Bold** and _Italic_ and `Code` text
+similarities
+less
+more
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/BrianSun-UBC/BrianSun-UBC/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Problem Set 7: C$50 Finance
+finance
+Problem Set 8: Mashup
+mashup
