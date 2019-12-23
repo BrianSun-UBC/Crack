@@ -4,7 +4,7 @@ I worked out these solutions as part of the completion for the Harvard CS50x cou
 
 ### Table Of Contents
 
-Problem Set 1: C
+Problem Set 1:
 hello
 cash
 credit
