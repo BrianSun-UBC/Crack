@@ -57,8 +57,8 @@
 - Javascript
   - jQuery
 
-### [Final Project](https://github.com/banjoanton/plex-web)
-> My final project - a Plex server web app that allows you to add IMDb lists as playlists to your server using PlexAPI and web scraping.
+### [Final Project]
+> My final project - Oberlo-Bot that fully automates the Oberlo order process for Shopify users. Automatically logs in to AliExpress, and Oberlo. Start the orders and then get all the tracking info from the preivously done orders. 
 
 - Python
   - Flask
