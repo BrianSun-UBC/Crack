@@ -1,47 +1,71 @@
-CS50 — 2019 solutions
-=====================
 
-## Table of Contents
 
-- [Problem Set 1: C](/pset1)
-  * [hello](/pset1/hello)
-  * [cash](/pset1/cash)
-  * [credit](/pset1/credit)
-  * mario
-    + [less](/pset1/mario/less)
-    + [more](/pset1/mario/more)
-- [Problem Set 2: Crypto](/pset2)
-  * [caesar](/pset2/caesar)
-  * [vigenere](/pset2/vigenere)
-  * [crack](/pset2/crack)
-- [Problem Set3: Music](/pset3)
-  * [music](/pset3/music)
-- [Problem Set 4: Forensics](/pset4)
-  * [whodunit](/pset4/whodunit)
-  * resize
-    + [less](/pset4/resize/less)
-    + [more](/pset4/resize/more)
-  * [recover](/pset4/recover)
-- [Problem Set 5: Mispellings](/pset5)
-  * [speller](/pset5/speller)
-    + [hashtable](/pset5/speller/hashtable)
-    + [trie](/pset5/speller/trie)
-    + [bloom filter](/pset5/speller/bloom_filter)
-- [Problem Set 6: Déjà vu](/pset6)
-  * [sentimental](/pset6/sentimental)
-    + [hello](/pset6/sentimental/hello)
-    + [cash](/pset6/sentimental/cash)
-    + [credit](/pset6/sentimental/credit)
-    + mario
-      - [less](/pset6/sentimental/mario/less)
-      - [more](/pset6/sentimental/mario/more)
-    + [caesar](/pset6/sentimental/caesar)
-    + [vigenere](/pset6/sentimental/vigenere)
-    + [crack](/pset6/sentimental/crack)
-  * [similarities](/pset6/similarities)
-    + [less](/pset6/similarities/less)
-    + [more](/pset6/similarities/more)
-- [Problem Set 7: C$50 Finance](/pset7)
-  * [finance](/pset7/finance)
-- [Problem Set 8: Mashup](/pset8)
-  * [mashup](/pset8/mashup)
+<div align="center">
+<img width="300" src="https://i.imgur.com/UcqRbxK.png"/>
+<h2>CS50 - Introduction to Computer Science</h2>
+<p>My submissions to <a href="https://www.edx.org/course/cs50s-introduction-to-computer-science">CS50</a></p>
+</div>
+
+*************************************************
+
+## Covered topics
+
+### Pset 1
+- C
+
+### Pset 2
+- C
+
+### Pset 3
+- C
+
+### Pset 4
+- C
+
+### Pset 5
+- HTML
+- CSS
+
+### Pset 6
+> Analyze Twitter accounts for positive, negative and neutral words and present it using Flask.
+
+- Python
+  - Flask
+- HTML
+- CSS
+- Twitter API
+
+### Pset 7
+> A survey with all entered results presented in a table using Flask.
+
+- Python
+  - Flask
+- HTML
+- CSS
+  - Bootstrap
+
+### Pset 8
+> A financial trade platform for stocks, based on real prices using an API. Create a user, buy and sell stocks and look at your trade history.
+
+- Python
+  - Flask
+- SQL
+- API
+- HTML
+- CSS
+  - Bootstrap
+- Javascript
+  - jQuery
+
+### [Final Project](https://github.com/banjoanton/plex-web)
+> My final project - a Plex server web app that allows you to add IMDb lists as playlists to your server using PlexAPI and web scraping.
+
+- Python
+  - Flask
+- SQL
+- API
+- HTML
+- CSS
+  - Bootstrap
+- Javascript
+  - jQuery
